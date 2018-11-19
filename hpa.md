@@ -2,31 +2,46 @@
 
 Available [online in full](http://www.bclaws.ca/Recon/document/ID/freeside/00_98031_01)
 
-[BC Housing](https://www.bchousing.org/licensing-consumer-services/legal/homeowner-protection-act-regulations)
+- [BC Housing - Owner Builder](https://www.bchousing.org/licensing-consumer-services/owner-builder/)
+- [BC Housing - Owner Builder Study Guide](https://www.bchousing.org/publications/Owner-Builder-Study-Guide.pdf)
+- [BC Housing - Video](https://youtu.be/IC-xeRuDr0I), teaches all statuary
+  obligations and requirements for exam and eligibility criteria
 
-## Owner Builder
+## Owner Builder Authorization
+
+Owner build must
+- build and occupy home for personal use
+- possess knowledge of residential construction
+- understand obligations under Homeowner Protection Act and Regulations
+
+Other characteristics:
+
 
 - person authorized by Licensing and Consumer Services LCS, part of BC Housing
-- build new home for personl use
-- must build or directly manager construction
-- 25k fine and prosection
+- build new home for personal use
+- must build or directly manage and supervise construction
+- 25k fine and prosecution
 - not required to obtain home warranty
 - not required to be licensed builder
 - individual (not company) with registered interest (fee simple, life or >15 yr lease)
-
+- or directory of family farm corp, resolution required
 
 # Type of Building
 
-- single dwelling unit
-  - detached
-  - or attached to >10yr old building
-  - or attached to non-residental building
+- detached under 1 legal title
+- or single dwelling unit attached to >10yr old building
+- or single dwelling unit attached to non-residental building
 
-## 1 Year Occupancy
+## First Occupancy
 
-- starts with occupancy permit (if issued in district)
-- can not rent before 1yr over
-- can not use for commerical purposes before 1 yr over
+- date of first first occupancy
+- or date of Occupancy Permit (if issues in district)
+- starts 1 year occupancy time (if issued in district)
+  - can not rent before 1yr over
+  - can not use for commerical purposes before 1 yr over
+- starts 10 year warranty (see below)
+- starts time for further owner builder permits (also see below)
+- HPO (BC Housing) needs to be notified of date
 
 ## Sale
 
@@ -50,12 +65,6 @@ Available [online in full](http://www.bclaws.ca/Recon/document/ID/freeside/00_98
 
 One contractor can not take care of two or more out of the three home warranty requirements
 
-- 2 years on finishing and mechanical systems
-- 5 years on building envelope
-- 10 years on structure
-
-One Home Warranty is required for builder built homes. Uses same 2,5,10 yr
-
 __Owner Builder is primary(general) contractor and project manager.__
 
 - has to manage
@@ -67,8 +76,11 @@ __Owner Builder is primary(general) contractor and project manager.__
 - family members can be hired
 
 
-More ownerbuilder permits
+# More Ownerbuilder Permits
+
 - only 18 month after first occupancy of first owner builder home
+- 36 months/3 years after first occupancy of second build
+- 60 months/5 years after first occupancy of third/last build
 
 ## Owner Builder Disclosure Notice
 
@@ -82,3 +94,32 @@ More ownerbuilder permits
 - failure to provide is offence under act (penalties and prosecution)
 - also subsequent sellers and pruchasers
 - not same as Real Estate Property Disclosure Notice
+
+## Obligations for Owner Builders
+
+One Home Warranty is required for builder built homes:
+
+- 2 years on finishing and mechanical systems, labour and materials
+- 5 years on building envelope
+- 10 years on structure, structural defects
+
+Owner build is same
+
+- when house is sold within first 10 years
+- any action must be within first 10 years
+- personally liable, unless home warranty insurance bought
+- any and all subsequent purchasers
+- some excemptions like natural disasters
+
+## Enforcement
+
+- compliance officer, at any reasonable time
+- enter and examine site
+- only enter private residence with consent of occupant
+- ask about workers and permits and such
+- ask for and inspect records, but e.g. not ask about labour and material costs
+- must produce his/her ID card, issues from CEO of LCS
+- 
+
+
+
