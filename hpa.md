@@ -10,21 +10,39 @@ Available [online in full](http://www.bclaws.ca/Recon/document/ID/freeside/00_98
 ## Owner Builder Authorization
 
 Owner build must
-- build and occupy home for personal use
+
+- build and occupy new home for personal use
 - possess knowledge of residential construction
 - understand obligations under Homeowner Protection Act and Regulations
 
+Onwer build must
+- build him/herself
+or 
+- hire
+- manage
+- directly supervise construction
+
+Can not hire
+- builde
+- project manager
+- construction manager
+
 Other characteristics:
 
-
 - person authorized by Licensing and Consumer Services LCS, part of BC Housing
-- build new home for personal use
-- must build or directly manage and supervise construction
 - 25k fine and prosecution
 - not required to obtain home warranty
 - not required to be licensed builder
-- individual (not company) with registered interest (fee simple, life or >15 yr lease)
+- individual (not company) with registered interest
+  - fee simple, life or >15 yr lease
+  - found via title search or BC Assessment
 - or directory of family farm corp, resolution required
+- can not live with individual that also is owner builder and does not satisfy time
+  restriction requirements
+- violations can result in cancellation of ownerbuilder authorization
+- subcontractors should read bulleting 25, What builders need to know about owner builder projects
+- can not have prior violations
+
 
 # Type of Building
 
@@ -86,7 +104,7 @@ __Owner Builder is primary(general) contractor and project manager.__
 
 - required for sale of property
 - needs to be provided to prospective buyer
-- issues by LCS
+- issues by LCS 
 - registered with Land Title Office
 - apply early
 - required to any buyers to any sale in 10 years after initial occupancy
@@ -99,9 +117,11 @@ __Owner Builder is primary(general) contractor and project manager.__
 
 One Home Warranty is required for builder built homes:
 
-- 2 years on finishing and mechanical systems, labour and materials
-- 5 years on building envelope
-- 10 years on structure, structural defects
+- 2 years on finishing and mechanical systems, free of defects on_labour and materials_
+- 5 years free of defects on  _building envelope_
+- 10 years free of _structural defects_
+
+Warranty requirement can NOT be waived or overridden in other contract.
 
 Owner build is same
 
@@ -119,7 +139,16 @@ Owner build is same
 - ask about workers and permits and such
 - ask for and inspect records, but e.g. not ask about labour and material costs
 - must produce his/her ID card, issues from CEO of LCS
-- 
+- owner builder must not obstruct compliance officer
+
+### Compliance Order
+
+- remedy non-compliant behavior
+- up to 25k fine
 
 
+## Documentation for BC Housing
+
+- First occupancy
+- List of all trades
 
