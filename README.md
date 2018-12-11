@@ -1,7 +1,7 @@
 # BC Owner Builder
 
 A collection of resources aimed to help with preparation to take the Owner
-Builder Exam in BC.
+Builder Exam in BC. Used as my personal study guide and summary.
 
 - [Homeowner Protection Act](./hpa.md)
 - [Inspections](./inspections.md)
